@@ -1,2 +1,7 @@
-# Invertir_numero_4digitos
-Programa para invertir un numero de 4 digitos  EJ.  1234 => 4321
+# conversor_temperatura
+PROGRAMA PARA INVERITR NUMEROS DE 4 DIGITOS 
+# DISEÑO
+
+## Diagrama de flujo
+
+![Diagrama de flujo](diagrama.png "Diagrama de flujo")
