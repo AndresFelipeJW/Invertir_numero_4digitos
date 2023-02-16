@@ -24,5 +24,5 @@ print("-----------------------------")
 print("--------- RESUTADOS ---------")
 print("-----------------------------")
 
-print(" REULTADO INVERSO:" + str(ni))
+print(" RESULTADO INVERSO:" + str(ni))
 
