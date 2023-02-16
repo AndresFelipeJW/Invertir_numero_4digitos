@@ -21,7 +21,7 @@ ni = (d1+d2+d3+d4)
 
 # output
 print("-----------------------------")
-print("--------- RESUTADOS ---------")
+print("--------- RESUlTADOS ---------")
 print("-----------------------------")
 
 print(" RESULTADO INVERSO:" + str(ni))
